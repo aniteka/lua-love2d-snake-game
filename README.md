@@ -5,13 +5,6 @@
 - `love "src/"`
 
 ## Gameplay 
-<table>
-<tr>
-    <td>
-        <img src="gameplay/gameplay_img.png">
-    </td>
-    <td>
-        <img src="gameplay/gameplay_video.gif">
-    </td>
-</tr>
-</table>
+- <img src="gameplay/gameplay_img.png">
+- <img src="gameplay/gameplay_video.gif">
+
